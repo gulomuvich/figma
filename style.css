@@ -36,6 +36,7 @@ img {
 ul,
 ol {
  list-style: none;
+ color: aqua;
 }
 
 a {
